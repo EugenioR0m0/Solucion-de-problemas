@@ -52,3 +52,7 @@ Esto permitió capturar efectos combinados en el desempeño de los estudiantes.
   - **R² ≈ 0.78**  
   - **MSE ≈ 4.49** (error promedio ≈ 2 puntos sobre la escala 0–20).  
 - Se graficaron valores reales vs predichos mostrando buena alineación.
+
+- [Reporte en ipynb](Solucion_Problema.ipynb)
+- [Reporte en html](Solucion_Problema.html)
+- [Base de datos](Base_de_Datos_Calificaciones.csv)
