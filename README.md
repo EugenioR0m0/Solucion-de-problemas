@@ -1,7 +1,6 @@
 # Solución de Problemas
 
 ## Descripción de la actividad
-Este proyecto corresponde a la materia **SC3314 – Inteligencia Artificial** (Universidad de Monterrey, Dr. Antonio Martínez Torteya).  
 El objetivo principal fue **predecir la calificación final (G3) de estudiantes** a partir de información demográfica y de desempeño en los primeros periodos, utilizando técnicas de regresión lineal múltiple.
 
 La base de datos utilizada proviene del [Student Performance Data Set (UCI Machine Learning Repository)](https://archive.ics.uci.edu/dataset/320/student+performance), con 395 observaciones y 10 variables.
